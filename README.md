@@ -18,8 +18,8 @@ To get started with the Mint Token Project, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/mint-token-project.git
-    cd mint-token-project
+    git clone https://github.com/yourusername/Degen-Token-Project.git
+    cd Degen-Token-Project
     ```
 
 2. Install the required dependencies:
@@ -32,7 +32,8 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
 
 1. Go to the Remix website at [Remix Ethereum](https://remix.ethereum.org/).
 
-2. Create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a `.sol` extension (e.g., `DegenToken.sol`). Copy and paste the following code into the file:
+2. Create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a `.sol` extension (e.g., `DegenToken.sol`). Copy and paste the
+   following code into the file:
 
     ```solidity
     // SPDX-License-Identifier: MIT
@@ -74,17 +75,17 @@ To run this program, you can use Remix, an online Solidity IDE. Follow these ste
     }
     ```
 
-3. Compile the code:
+4. Compile the code:
     - Click on the "Solidity Compiler" tab in the left-hand sidebar.
     - Make sure the "Compiler" option is set to "0.8.0" (or another compatible version).
     - Click on the "Compile DegenToken.sol" button.
 
-4. Deploy the contract:
+5. Deploy the contract:
     - Click on the "Deploy & Run Transactions" tab in the left-hand sidebar.
     - Select the "DegenToken" contract from the dropdown menu.
     - Click on the "Deploy" button.
 
-5. Interact with the deployed contract:
+6. Interact with the deployed contract:
     - Click on the "DegenToken" contract in the left-hand sidebar.
     - You can now call functions such as `mint`, `burn`, and `redeem` by providing the required inputs and clicking on the appropriate buttons.
 
