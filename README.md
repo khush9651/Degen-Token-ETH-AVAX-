@@ -1,4 +1,4 @@
-# Project Title: Degen Token (ERC-20): Unlocking the Future of Gaming
+# Degen Token (ERC-20): Unlocking the Future of Gaming
 
 ## Simple Overview of Use/Purpose
 The Degen Token Project is a Solidity-based smart contract that implements an ERC20 token named "Degen" with the symbol "DGN". It includes functionalities for minting 
